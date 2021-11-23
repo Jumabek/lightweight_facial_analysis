@@ -1,13 +1,17 @@
-Requirements
+# Requirements
 -	Anaconda3
-Setting
+
+# Setting
 -	Open environment.yml
 -	Customize name (first row) and prefix(last row) based on your preference and anaconda installation path
 -	Run command: conda env create environment.yml
 -	Download the model weights from  https://drive.google.com/drive/folders/1ptjh3uOtRFbzLtVJr6FXpJNq3lJlGAkR?usp=sharing
-Usage:
+
+#Usage:
+
 -	python demo.py
-Limitation:
+
+#Limitation:
 -	In order to simplify UI, program assumes there is single user is present in camera view
 
 Libraries 
