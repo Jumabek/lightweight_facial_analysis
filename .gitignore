@@ -1,1 +1,2 @@
-weights/*
+weights/*.h5
+weights/*.xml
